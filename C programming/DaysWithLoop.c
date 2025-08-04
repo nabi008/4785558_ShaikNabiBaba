@@ -1,3 +1,5 @@
+// Display days of the week based on user input
+// C program to demonstrate the use of switch-case and loops
 #include <stdio.h>
 int main() {
     int day;
